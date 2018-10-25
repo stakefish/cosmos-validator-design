@@ -13,9 +13,6 @@
 ## Architecture #4 - HA Sentry Node Reference Design
 [![](/04_HA_secured_validator_architecture.jpg)](https://drh2acu5z204m.cloudfront.net/items/23423x402C2s2j372B3s/04_HA_secured_validator_architecture.jpg?X-CloudApp-Visitor-Id=3173376&v=544e751f)
 
-## Architecture #5 - Relay Node Reference Design
-[![](/05_Relay_architecture.jpg)](https://drh2acu5z204m.cloudfront.net/items/1v0A3S0T1M0G09113S26/05_Relay_architecture.jpg?X-CloudApp-Visitor-Id=3173376&v=c708bfdd)
-
 You are welcome to use these rendering in your blogs and websites, with attribution to this site. For any questions, please write to us at: cosmos at bit dot fish.
 
 # Have Fun! 🐟
